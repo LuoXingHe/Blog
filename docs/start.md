@@ -1,9 +1,6 @@
-<!--
- * @Author: LQL
- * @LastEditTime: 2021-09-11 22:48:33
- * @Description: 
--->
 ## Welcome to GitHub Pages
+
+[start](https://luoxinghe.github.io/blog/start)
 
 You can use the [editor on GitHub](https://github.com/LuoXingHe/Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
